@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+icon-add {
+    margin-left: 20px;
+    font-size: 28px;
+    transition: all;
+    transition-duration: 200ms;
+}
+
+icon-add:hover {
+    cursor: pointer;
+    font-size: 30px;
+}
